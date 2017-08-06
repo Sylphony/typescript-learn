@@ -6,5 +6,10 @@
   "author": " ",
   "license": "MIT",
   "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.3.2",
+    "webpack": "^3.4.1"
   }
 }
